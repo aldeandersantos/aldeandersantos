@@ -6,7 +6,7 @@
   <a href="https://cursos.alura.com.br/user/aldeander" target="_blank"><img src="https://img.shields.io/badge/Alura-12100E?style=for-the-badge&Color=blue" target="_blank"></a>
 </div>
 
-#### 25 years, computer science student, interested in web development, statistics, security and cloud computing.
+#### 26 years old, graduated in computer science, backend python developer, passionate about technology.
 
 ###### Have been studying: Python, Django, JavaScript, HTML, CSS, API, Git, SQL. I also had contact with agile methodologies, TDD, Clean Code and Databases.
 
